@@ -1,0 +1,3 @@
+﻿  Life.cpp
+C:\Users\dougl\Desktop\Life\Life.cpp(477,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\dougl\Desktop\Life\Life.cpp(635,22): error C1075: “{”: 未找到匹配令牌

@@ -1,0 +1,12 @@
+﻿  Life.cpp
+C:\Users\dougl\Desktop\Life\Life.cpp(376,66): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+C:\Users\dougl\Desktop\Life\Life.cpp(376,41): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+C:\Users\dougl\Desktop\Life\Life.cpp(386,62): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+C:\Users\dougl\Desktop\Life\Life.cpp(386,37): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+C:\Users\dougl\Desktop\Life\Life.cpp(387,62): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+C:\Users\dougl\Desktop\Life\Life.cpp(387,37): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+C:\Users\dougl\Desktop\Life\Life.cpp(388,62): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+C:\Users\dougl\Desktop\Life\Life.cpp(388,37): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+C:\Users\dougl\Desktop\Life\Life.cpp(389,62): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+C:\Users\dougl\Desktop\Life\Life.cpp(389,37): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+  Life.vcxproj -> C:\Users\dougl\Desktop\Life\x64\Debug\Life.exe
